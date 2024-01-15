@@ -1,0 +1,12 @@
+# virtual environments
+/venv
+/.venv
+
+# output data
+rrprettier_data.py
+
+# for some test
+/test.py
+
+# __pycache__
+__pycache__

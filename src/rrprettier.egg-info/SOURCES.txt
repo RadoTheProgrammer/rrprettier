@@ -1,0 +1,5 @@
+setup.py
+src/rrprettier.egg-info/PKG-INFO
+src/rrprettier.egg-info/SOURCES.txt
+src/rrprettier.egg-info/dependency_links.txt
+src/rrprettier.egg-info/top_level.txt
