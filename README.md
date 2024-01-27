@@ -7,7 +7,7 @@ A simple example:
 import rrprettier
 data={
 "name": "John Doe",
-"age": 30,
+"age": 40,
 "city": "New York",
 "isStudent": False,
 "courses": ["Math", "Science", "English"],
