@@ -2,3 +2,4 @@ rrprettier_data.py
 __pycache__
 /build
 /dist
+/.venv

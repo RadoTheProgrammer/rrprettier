@@ -1,4 +1,5 @@
 # RRPrettier
+
 A tool to prettify data of python objects
 
 A simple example:
@@ -7,7 +8,7 @@ A simple example:
 import rrprettier
 data={
 "name": "John Doe",
-"age": 30,
+"age": 50,
 "city": "New York",
 "isStudent": False,
 "courses": ["Math", "Science", "English"],
