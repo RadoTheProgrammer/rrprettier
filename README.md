@@ -10,7 +10,7 @@ data={
 "name": "John Doe",
 "age": 50,
 "city": "New York",
-"isStudent": False,
+"isStudent": True,
 "courses": ["Math", "Science", "English"],
 "address": {
     "street": "123 Main St",
