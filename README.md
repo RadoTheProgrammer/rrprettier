@@ -2,7 +2,7 @@
 
 A tool to prettify data of python objects
 
-A simple example:
+A simple example in python:
 
 ```python
 import rrprettier
@@ -17,5 +17,5 @@ data={
     "zipCode": "10001"
 }
 }
-rrprettiernew.pprint(data)
+rrprettier.pprint(data)
 ```
