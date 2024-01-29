@@ -37,7 +37,7 @@ def tofile(data,file="rrprettier_data.py"):
     """
     Prettify data and then save it
     """
-    with open(file,"w") as f:
+    with open(file,"w",encoding="UTF8") as f:
         f.write("d="+prettify(data))
 
 #print([1,2,3,4,5,[1,2]])
