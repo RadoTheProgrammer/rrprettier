@@ -1,7 +1,14 @@
-rrprettier_data.py
+## all
+/.DS_Store
+
+## language:python
 __pycache__
-/build
 /dist
 /.venv
-/.DS_Store
 /poetry.lock
+
+## project:rrprettier
+rrprettier_data.py
+
+
+

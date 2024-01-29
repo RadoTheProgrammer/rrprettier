@@ -1,4 +1,4 @@
-import rrprettier2
+import rrprettier
 
 data={
   "name": "John Doe",
@@ -11,4 +11,4 @@ data={
     "zipCode": "10001"
   }
 }
-rrprettier2.pprint(data)
+rrprettier.pprint(data)
