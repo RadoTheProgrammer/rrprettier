@@ -15,7 +15,7 @@ description = "My awesome Python project"
 authors = ["RadoTheProgrammer <rado@arazakar.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.11"
 
 
 

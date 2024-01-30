@@ -1,5 +1,7 @@
 ## all
 /.DS_Store
+/sandbox
+/.vscode
 
 ## language:python
 __pycache__
