@@ -9,7 +9,7 @@ import rrprettier
 data={
 "name": "John Doe",
 "age": 50,
-"city": "Tokyo",
+"city": "Madrid",
 "isStudent": False,
 "courses": ["Math", "Science", "English"],
 "address": {
