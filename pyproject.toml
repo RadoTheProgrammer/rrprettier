@@ -18,9 +18,9 @@ authors = ["RadoTheProgrammer <rado@arazakar.com>"]
 #     { include = "src"}
 # ] #the one that works well but literally create src/
 
-packages = [
-    { include = "*/__init__.py",from="src"}
-] #the one that works well but have to specify
+# packages = [
+#     { include = "arrow",from="src"}
+# ] #the one that works well but have to specify
 dependencies={python="^3.11",pandas="*"}
 
 # [tool.poetry.packages]
