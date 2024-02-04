@@ -13,9 +13,31 @@ name = "rrprettier"
 version = "0.1.0"
 description = "My awesome Python project"
 authors = ["RadoTheProgrammer <rado@arazakar.com>"]
+#include = ["src/rrp"]
+# packages = [
+#     { include = "src"}
+# ] #the one that works well but literally create src/
 
-[tool.poetry.dependencies]
-python = "^3.11"
+packages = [
+    { include = "*/__init__.py",from="src"}
+] #the one that works well but have to specify
+dependencies={python="^3.11",pandas="*"}
+
+# [tool.poetry.packages]
+# { include = ["src/*"] }
+# [tool.poetry.packages]
+# include = [{path = "src"}]
+#packages = [{ include = "src/rrp" }]
+#include = ["src/rrp"]
+#[tool.poetry.packages]
+# If you have other packages, include them here
+# packages = [{ include = "src" }]
+
+
+
+
+# [tool.poetry.dependencies]
+# python = "^3.11"
 
 
 

@@ -6,8 +6,10 @@
 ## language:python
 __pycache__
 /dist
+/build
 /.venv
 /poetry.lock
+*.egg-info
 
 ## project:rrprettier
 rrprettier_data.py
