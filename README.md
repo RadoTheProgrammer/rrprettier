@@ -8,7 +8,7 @@ A simple example in python:
 import rrprettier
 data={
 "name": "John Doe",
-"age": 55,
+"age": 56,
 "city": "New york",
 "isStudent": False,
 "courses": ["Math", "Science", "English"],
