@@ -21,7 +21,7 @@ authors = ["RadoTheProgrammer <rado@arazakar.com>"]
 # packages = [
 #     { include = "arrow",from="src"}
 # ] #the one that works well but have to specify
-dependencies={python="^3.11",pandas="*"}
+dependencies={python="^3.11"}
 
 # [tool.poetry.packages]
 # { include = ["src/*"] }

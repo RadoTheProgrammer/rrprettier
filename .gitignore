@@ -8,7 +8,6 @@ __pycache__
 /dist
 /build
 /.venv
-/poetry.lock
 *.egg-info
 
 ## project:rrprettier
