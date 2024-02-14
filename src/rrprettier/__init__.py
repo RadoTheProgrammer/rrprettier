@@ -40,6 +40,14 @@ def tofile(data,file="rrprettier_data.py"):
     with open(file,"w",encoding="UTF8") as f:
         f.write("d="+prettify(data))
 
+class dictp(dict):
+    __repr__=prettify
+class listp(list):
+    __repr__=prettify
+class tuplep(tuple):
+    __repr__=prettify
+class setp(set):
+    __repr__=prettify
 #print([1,2,3,4,5,[1,2]])
 
 #print(printer({1:2,3:4,50:[1,2]}))
