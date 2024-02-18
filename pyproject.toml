@@ -10,7 +10,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "rrprettier"
-version = "0.1.0"
+version = "1.0.0"
 description = "My awesome Python project"
 authors = ["RadoTheProgrammer <rado@arazakar.com>"]
 #include = ["src/rrp"]
